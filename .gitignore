@@ -1,0 +1,30 @@
+# Fichiers compilés
+*.class
+*.jar
+!framework.jar
+target/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.bak
